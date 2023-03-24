@@ -16,6 +16,13 @@
 [Source Lines Of Code](https://github.com/flosse/sloc)
 <br>
 
+## C
+
+[Dynamic Recompilation](https://github.com/marcosatti/Dynarec_Guide)
+<br>
+[C99 Lambda](https://github.com/AlexCeleste/C99-Lambda)
+<br>
+
 ## C++
 
 [Vim C++ Modern](https://github.com/bfrg/vim-cpp-modern)
