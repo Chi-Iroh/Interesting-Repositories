@@ -23,6 +23,7 @@
 <br>
 [C99 Lambda](https://github.com/AlexCeleste/C99-Lambda)
 <br>
+[Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C)
 
 ## C++
 
